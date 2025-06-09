@@ -1,2 +1,2 @@
-# BroTimoti
-Catetan Akademi crypto lite
+# Finansial
+Catetan cara menghasilkan uang dan mindset
