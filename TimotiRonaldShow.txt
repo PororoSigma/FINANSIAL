@@ -3,14 +3,13 @@ BANTU DIRI KALIAN SENDIRI TERLEBIH DAHULU
 defensif { 1. nabung 10 juta dulu, minimal di bank ada saldo 10 juta baru mulai investasi, 
            2. hapus semua hutang hutang /riba kecuali KPR(hindari hutang), 
            3. dana darurat buat 3 bulan / 100 juta di rekening, menurut ray dhalio dikali 2 untuk dana darurat entah nominal ataupun durasi }
-attacking { 4. investasi minimal 20%, golongan tipe investasi = Jika terdapat keputusan dalam ingin investasi(jual/beli) ini kelas Alpha (Kelas Alpha ini butuh latian yang cukup lama), 
-                                                                tapi jika langsung beli aja suatu investasi ini kelas Beta.                      
+attacking { 4. investasi minimal 20%, golongan tipe investasi = Jika terdapat keputusan dalam ingin investasi(jual/beli) ini kelas Alpha                  (Kelas Alpha ini butuh latian yang cukup lama), tapi jika langsung beli aja suatu investasi ini kelas Beta.
             5. dana pendidikan anak karena inflasi tiap tahun meninggi, 
             6. lunasi hutang KPR(cicilan beli rumah), 
             7. buat dan jaga kekayaan lalu berbagi }
 
 Hal yang diperhatikan { Sangat penting untuk budgeting sebelum budgeting catat semua pemasukan dan pengeluran, 
-                        Income/pendapatan beda dengan gaji. Uang akan hilang jika tidak diperhatikan akan hilang(jangan berlebihan dalam memperhatikan)
+                        Income/pendapatan beda dengan gaji. Uang akan hilang jika tidak diperhatikan akan hilang(jangan berlebihan dalam                            memperhatikan)
                         jika income kita stagnan berarti masalahnya ada di skillset yang biasa aja
                         Kerjain kerjaan setengah hati aja, lakukan sepenuh hati untuk meningkatkan skillset
                         Kalo belum bisa nabung 10 juta naikin income dulu dari mana aja
@@ -18,16 +17,38 @@ Hal yang diperhatikan { Sangat penting untuk budgeting sebelum budgeting catat s
                         Duo yang solid adalah orang yang bisa masak di dapur dan yang bisa menjualkan produk
                         Rapot di dunia nyata itu saldo di rekening
                         Kalo punya skillset yang expert liat peluang income yang lain.
-                        Periode dunia : high growth, low growth, high inflation, low inflation } 
+                        Periode dunia : high growth, low growth, high inflation, low inflation  
+                        Orang pintar beli emas itu GLD bukan XSAU
+                        Pendapatan dan investasi itu berbeda 
+                        Mencari income tambahan itu paling penting, jual semua skillset yang kamu miliki
+                        Jika ingin investasi kepada sebuah perusahaan pastikan tahu laba dan memahami pekerjaan apa yang dilakukan                                 oleh perusahaan tersebut 
+                        Kekuatan paling kuat adalah gaji, bukan investasi jadi gunakan gaji sebijak mungkin jangan digadai
+                        Dunia ini penuh dengan ketidakpastian }
 
 Permasalahan dan atau istilah { -Masalah bisnis ada 2, delivery(contoh kalo tempat full harus bikin gedung lagi) & mendapatkan pelanggan. 
-                                -Penyakit freelancer kalo ada deal besar langsung foya foya, rekomendasi untuk freelancer budgeting 3 bulan.
-                                -Equity atau ekuitas adalah hak kepemilikan atau klaim atas aset perusahaan setelah semua kewajiban atau hutang telah dilunasi.
-                                -Risk free rate (RFR) adalah tingkat pengembalian atau suku bunga yang ditawarkan oleh instrumen investasi yang dianggap bebas risiko. 
-                                  Ini merupakan return minimum yang diharapkan investor dari investasi manapun, dan menjadi acuan untuk menilai return yang layak dari investasi 
+                                -Penyakit freelancer kalo ada deal besar langsung foya foya, rekomendasi untuk freelancer budgeting 3                                       bulan.
+                                -Equity atau ekuitas adalah hak kepemilikan atau klaim atas aset perusahaan setelah semua kewajiban atau                                     hutang telah dilunasi.
+                                -Risk free rate (RFR) adalah tingkat pengembalian atau suku bunga yang ditawarkan oleh instrumen investasi                                  yang dianggap bebas risiko. 
+                                  Ini merupakan return minimum yang diharapkan investor dari investasi manapun, dan menjadi acuan untuk                                      menilai return yang layak dari investasi 
                                   lain yang mengandung risiko. 
-                                -Afiliator adalah pihak yang mempromosikan produk atau layanan milik orang lain dengan harapan mendapatkan komisi atas setiap penjualan yang berhasil.
+                                -Afiliator adalah pihak yang mempromosikan produk atau layanan milik orang lain dengan harapan mendapatkan                                  komisi atas setiap penjualan yang berhasil.
                                 -NPD adalah singkatan dari Narcissistic Personality Disorder atau Gangguan Kepribadian Narsistik.
-                                -CFA (Chartered Financial Analyst) adalah sertifikasi profesional di bidang keuangan dan investasi yang diakui secara internasional.
-                                -ETF adalah singkatan dari Exchange Traded Fund atau Dana yang Diperdagangkan di Bursa. Ini adalah bentuk investasi yang memungkinkan investor untuk 
-                                 membeli dan menjual portofolio saham atau aset lainnya dalam satu unit perdagangan di bursa efek, mirip dengan saham }
+                                -CFA (Chartered Financial Analyst) adalah sertifikasi profesional di bidang keuangan dan investasi yang                                     diakui secara internasional.
+                                -ETF adalah singkatan dari Exchange Traded Fund atau Dana yang Diperdagangkan di Bursa. Ini adalah bentuk                                   investasi yang memungkinkan investor untuk 
+                                 membeli dan menjual portofolio saham atau aset lainnya dalam satu unit perdagangan di bursa efek, mirip                                    dengan saham 
+                                -P/E atau Price to Earnings ratio adalah metrik valuasi yang mengukur harga saham suatu perusahaan                                          dibandingkan dengan laba per saham (EPS). Rasio ini membantu investor memahami apakah suatu saham 
+                                 dinilai mahal atau murah berdasarkan kemampuannya menghasilkan laba, 
+                                 Rasio P/E = Harga Saham / Laba per Saham 
+                                -EPS (Earning per Share) adalah bagian dari laba bersih perusahaan yang dialokasikan untuk setiap 
+                                 lembar saham yang bereda 
+                                -Valuasi saham adalah proses penentuan nilai intrinsik atau nilai wajar dari suatu saham perusahaan.                                        Proses ini bertujuan untuk mengetahui apakah harga saham saat ini mencerminkan nilai sebenarnya, 
+                                 sehingga investor dapat mengambil keputusan investasi yang lebih tepat
+                                -Metode valuasi Price to Earnings Ratio (P/E). Price to Book Value (P/BV). Return on Equity (ROE). 
+                                 Discounted Cash Flow (DCF) analysis. 
+                                 Price-to-Sales (P/S). Price-to-Cash Flow (P/CF). }
+                                -RDPU adalah singkatan dari Reksa Dana Pasar Uang. Ini adalah jenis reksa dana yang menginvestasikan dana                                   investor pada instrumen pasar uang dengan jatuh tempo kurang dari satu tahun, seperti deposito, obligasi                                   jangka pendek, dan instrumen pasar uang lainnya.
+                                -ARR, atau Annual Recurring Revenue, adalah pendapatan berulang tahunan yang diperoleh dari pelanggan                                       dalam model bisnis berbasis langganan.
+                                -Skema Ponzi adalah modus investasi palsu di mana keuntungan yang dibayarkan kepada investor berasal dari                                   uang investor baru, bukan dari keuntungan operasional yang sebenarnya.
+                                -LOI adalah dokumen awal yang mengungkapkan niat untuk bekerja sama, MOU adalah kesepakatan yang lebih                                      formal dan bisa mengikat atau tidak mengikat, sementara Kontrak adalah perjanjian yang mengikat secara                                     hukum dan menciptakan kewajiban bagi pihak-pihak yang terlibat.
+
+
